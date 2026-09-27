@@ -8,41 +8,27 @@ Logical Knight builds practical technology for difficult real-world problems.
 
 We develop focused software, AI, automation and data products where existing workflows are manual, fragmented, expensive or inadequate.
 
-## What we build
+## What we do
 
-Every product starts with a real operational problem, not with a technology. Our approach:
+We identify real operational problems, understand the workflow, build focused solutions and validate them with real users.
 
-1. Find a real problem.
-2. Understand the workflow.
-3. Build the smallest system that solves it properly.
-4. Validate it with real users.
-5. Turn it into a reliable product.
+## Agent Research
 
-## Products
+Agent Research is a Logical Knight product currently in **Early Access**.
 
-### Agent Research
+It monitors public sources, detects meaningful business changes, verifies them against original evidence and delivers structured events for people and software systems.
 
-*A Logical Knight product.* Status: public staging / beta.
-
-Agent Research monitors public sources, detects meaningful business changes, verifies them against original evidence, and delivers structured events through APIs, webhooks and machine-to-machine payments.
+Key public capabilities:
 
 - Evidence-backed business events
 - Multilingual monitoring
-- Exact source provenance
+- Source provenance
 - API and webhook delivery
-- Machine-to-machine purchasing through x402
+- Machine-to-machine purchasing support
 
 More products are currently in private development.
-
-## Principles
-
-- **Solve real problems.**
-- **Build useful systems.**
-- **Verify before claiming.**
-- **Design for reliability.**
-- **Protect customer data.**
 
 ## Contact
 
 - Website: [logicalknight.com](https://logicalknight.com)
-- Email: [info@logicalknight.com](mailto:info@logicalknight.com)
+- Email: [logicalknight0@gmail.com](mailto:logicalknight0@gmail.com)
