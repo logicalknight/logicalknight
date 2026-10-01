@@ -24,7 +24,7 @@ Key public capabilities:
 - Multilingual monitoring
 - Source provenance
 - API and webhook delivery
-- Machine-to-machine purchasing support
+- Machine-to-machine payment support (in development)
 
 More products are currently in private development.
 
